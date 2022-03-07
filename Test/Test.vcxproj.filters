@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="源文件\数据结构">
+      <UniqueIdentifier>{8fa63d0b-1fca-4d45-a45f-46fb1b1827b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\递归函数">
+      <UniqueIdentifier>{21e51a9a-3ca1-467b-8ed1-97fefdd47d6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\多级指针">
+      <UniqueIdentifier>{ea4f294b-3509-4629-9cee-3b5c4e978b6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\指针">
+      <UniqueIdentifier>{8ae68dca-7d67-4370-81d8-c4216246403b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\文件">
+      <UniqueIdentifier>{a7122fd2-51d7-43cb-bc48-e3e52dbd7e09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="主调main函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入一个数求其位数和倒序输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组以一维方式反转.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="基数排序.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="直接插入排序.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="希尔排序.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="给已有值数组任意位置插一元素使其它元素后移.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大公因数与最小公倍数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猴子吃桃问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组折半查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵相乘.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="将一行英文字符单词首字母转为大写.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="百钱百鸡问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单链表的操作实现.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="链栈的操作实现.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="递归求Fibonacci数列前n项.c">
+      <Filter>源文件\递归函数</Filter>
+    </ClCompile>
+    <ClCompile Include="顺序栈的增删查.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="链队的操作.c">
+      <Filter>源文件\数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="利用递归求一个数a的n次方.c">
+      <Filter>源文件\递归函数</Filter>
+    </ClCompile>
+    <ClCompile Include="将原二维数组行列互换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组求鞍点.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组两对角线元素和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="汉诺塔问题.c">
+      <Filter>源文件\递归函数</Filter>
+    </ClCompile>
+    <ClCompile Include="将一个二维数组转置存入另一个二维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多级指针指针关系图.c">
+      <Filter>源文件\多级指针</Filter>
+    </ClCompile>
+    <ClCompile Include="二级指针进行字符串排序.c">
+      <Filter>源文件\多级指针</Filter>
+    </ClCompile>
+    <ClCompile Include="求一个整数的阶乘和.c">
+      <Filter>源文件\递归函数</Filter>
+    </ClCompile>
+    <ClCompile Include="利用指针将输入的某一字符串去除重复元素后输出.c">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="将一个指定字符插入到字符串最大元素的后面.c">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="将一个字符串首字母转为大写存入指定文件.c">
+      <Filter>源文件\文件</Filter>
+    </ClCompile>
+    <ClCompile Include="将A_B_中的文件信息合并后_排序存入文件C中.c">
+      <Filter>源文件\文件</Filter>
+    </ClCompile>
+    <ClCompile Include="利用指针变量进行字符串复制.c">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="利用递归函数结合强制转换实现一个实数的四舍五入.c">
+      <Filter>源文件\递归函数</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串连接函数的功能实现.c">
+      <Filter>源文件\指针</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

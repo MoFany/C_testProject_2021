@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "C算法实现", "..\..\生成可执行软件\C算法实现\C算法实现.vdproj", "{7A647E3A-3DAF-45A9-8688-4FF2AE87D577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}.Debug|x64.ActiveCfg = Debug|x64
+		{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}.Debug|x64.Build.0 = Debug|x64
+		{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}.Debug|x86.Build.0 = Debug|Win32
+		{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}.Release|x64.ActiveCfg = Release|x64
+		{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}.Release|x64.Build.0 = Release|x64
+		{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}.Release|x86.ActiveCfg = Release|Win32
+		{E2E9E55E-D51B-4FBD-ABA4-B3A7B4B18259}.Release|x86.Build.0 = Release|Win32
+		{7A647E3A-3DAF-45A9-8688-4FF2AE87D577}.Debug|x64.ActiveCfg = Debug
+		{7A647E3A-3DAF-45A9-8688-4FF2AE87D577}.Debug|x86.ActiveCfg = Debug
+		{7A647E3A-3DAF-45A9-8688-4FF2AE87D577}.Release|x64.ActiveCfg = Release
+		{7A647E3A-3DAF-45A9-8688-4FF2AE87D577}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F61AF1-0B19-455A-87DD-F0C99F7E8CFB}
+	EndGlobalSection
+EndGlobal
